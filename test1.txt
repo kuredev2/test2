@@ -3,5 +3,4 @@ from kuredev
 
 after conflist
 
-from kuredev2
-:
+after conflict3
