@@ -1,6 +1,5 @@
 test1
 from kuredev
 
-from kuredev2
-
+after conflist
 
